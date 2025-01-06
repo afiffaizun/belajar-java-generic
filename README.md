@@ -1,6 +1,7 @@
 # Belajar Java Generic
 
 Konsep-konsep java generic
+Terdiri Folder Data, Application, Util
 
 ## Roadmap
 
