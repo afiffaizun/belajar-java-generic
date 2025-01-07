@@ -1,6 +1,6 @@
 # Belajar Java Generic
 
-Terdiri Folder Data, Application, Util
+Terdiri Package Data, Application, Util
 
 ## Roadmap
 
