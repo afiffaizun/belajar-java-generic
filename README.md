@@ -2,7 +2,7 @@
 
 Terdiri Package Data, Application, Util
 
-## Materi yang Dipelajari
+### Materi yang Dipelajari
 
 - Generic Class
 - Generic Method
@@ -14,7 +14,7 @@ Terdiri Package Data, Application, Util
 - Tipe Erasure
 - Comparator Interface
 
-## Pesan
+### Pesan
 
 "Sebelum memulai langkah, mari berdoa memohon petunjuk-Nya. Semoga ilmu yang kita dapatkan menjadi berkah dan bermanfaat bagi sesama."
 
