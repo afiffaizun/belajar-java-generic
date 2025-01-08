@@ -18,3 +18,6 @@ Terdiri Package Data, Application, Util
 
 "Sebelum memulai langkah, mari berdoa memohon petunjuk-Nya. Semoga ilmu yang kita dapatkan menjadi berkah dan bermanfaat bagi sesama."
 
+### Sumber Materi
+
+ - [Pemrograman Java untuk Pemula sampai Mahir](https://kelas.programmerzamannow.com/courses/enrolled/1670014)
